@@ -9,8 +9,12 @@ namespace TileGame
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        
         Texture2D footballTexture;
         Texture2D tennisballTexture;
+
+        MouseState currentMouseState;
+        MouseState previousMouseState;
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
@@ -37,11 +41,13 @@ namespace TileGame
         {
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
-            MouseState mouseState = Mouse.GetState();
-
-            if (mouseState.LeftButton == ButtonState.Released)
+           
+            previousMouseState = currentMouseState;
+            currentMouseState = Mouse.GetState();
+            if (currentMouseState.LeftButton == ButtonState.Released &&
+                previousMouseState.LeftButton == ButtonState.Pressed)
             {
-                Point mousePosition = new Point(mouseState.X, mouseState.Y);
+                Point mousePosition = new Point(currentMouseState.X, currentMouseState.Y);
 
                 // Check if the mouse is over the first image
                 Rectangle image1Bounds = new Rectangle(100, 100, footballTexture.Width, footballTexture.Height);
