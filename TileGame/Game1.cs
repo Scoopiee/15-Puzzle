@@ -44,6 +44,7 @@ namespace TileGame
            
             previousMouseState = currentMouseState;
             currentMouseState = Mouse.GetState();
+
             if (currentMouseState.LeftButton == ButtonState.Released &&
                 previousMouseState.LeftButton == ButtonState.Pressed)
             {
