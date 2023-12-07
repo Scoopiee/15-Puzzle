@@ -7,11 +7,15 @@ namespace TileGame
 {
     public class Game1 : Game
     {
+
+        Tile.Tile myTile;
+        
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         
         Texture2D footballTexture;
         Texture2D tennisballTexture;
+        Texture2D myTileTexture;
 
         MouseState currentMouseState;
         MouseState previousMouseState;
@@ -34,6 +38,10 @@ namespace TileGame
             _spriteBatch = new SpriteBatch(GraphicsDevice);
             footballTexture = Content.Load<Texture2D>("ball");
             tennisballTexture = Content.Load<Texture2D>("tennisball");
+            myTileTexture = Content.Load<Texture2D>("demotile");
+            
+
+           
             //this.Content - load game content 
         }
 
@@ -69,6 +77,13 @@ namespace TileGame
                     // Add your custom logic here
                     System.Diagnostics.Debug.WriteLine("Tennisball clicked!");
                 }
+                Rectangle image3bounds = new Rectangle(300, 100, myTileTexture.Width, myTileTexture.Height); 
+                if (image3bounds.Contains(mousePosition))
+                {
+
+
+                    System.Diagnostics.Debug.WriteLine("Tile clicked!");
+                }
             }
             // update logic
 
@@ -84,6 +99,7 @@ namespace TileGame
             // Draw the sprite at a specific position (for example, at coordinates (100, 100))
             _spriteBatch.Draw(footballTexture, new Vector2(100, 100), Color.White);
             _spriteBatch.Draw(tennisballTexture, new Vector2(200, 100), Color.White);
+            _spriteBatch.Draw(myTileTexture, new Vector2(300, 100), Color.White);
 
             _spriteBatch.End();
 

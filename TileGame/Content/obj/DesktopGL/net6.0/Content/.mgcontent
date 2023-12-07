@@ -5,9 +5,11 @@
   <Config />
   <SourceFiles>
     <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/ball.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/demotile.png</File>
     <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tennisball.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>

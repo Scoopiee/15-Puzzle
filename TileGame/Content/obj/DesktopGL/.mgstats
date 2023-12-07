@@ -1,3 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "C:/Users/aidan/source/repos/TileGame/TileGame/Content/ball.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",1672,25685,0.1562611
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/demotile.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/demotile.xnb","TextureProcessor","Texture2DContent",333,25685,0.1480587
 "C:/Users/aidan/source/repos/TileGame/TileGame/Content/tennisball.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tennisball.xnb","TextureProcessor","Texture2DContent",3695,24725,0.1331012

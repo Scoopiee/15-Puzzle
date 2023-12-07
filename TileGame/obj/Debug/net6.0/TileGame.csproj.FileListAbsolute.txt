@@ -25,3 +25,4 @@ C:\Users\aidan\source\repos\TileGame\TileGame\obj\Debug\net6.0\TileGame.genrunti
 C:\Users\aidan\source\repos\TileGame\TileGame\obj\Debug\net6.0\ref\TileGame.dll
 C:\Users\aidan\source\repos\TileGame\TileGame\bin\Debug\net6.0\Content\ball.xnb
 C:\Users\aidan\source\repos\TileGame\TileGame\bin\Debug\net6.0\Content\tennisball.xnb
+C:\Users\aidan\source\repos\TileGame\TileGame\bin\Debug\net6.0\Content\demotile.xnb
