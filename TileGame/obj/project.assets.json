@@ -107,11 +107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aidan\\source\\repos\\TileGame\\TileGame\\TileGame.csproj",
+      "projectUniqueName": "C:\\Users\\aidan\\Source\\Repos\\15-Puzzle\\TileGame\\TileGame.csproj",
       "projectName": "TileGame",
-      "projectPath": "C:\\Users\\aidan\\source\\repos\\TileGame\\TileGame\\TileGame.csproj",
+      "projectPath": "C:\\Users\\aidan\\Source\\Repos\\15-Puzzle\\TileGame\\TileGame.csproj",
       "packagesPath": "C:\\Users\\aidan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aidan\\source\\repos\\TileGame\\TileGame\\obj\\",
+      "outputPath": "C:\\Users\\aidan\\Source\\Repos\\15-Puzzle\\TileGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aidan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -165,7 +165,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

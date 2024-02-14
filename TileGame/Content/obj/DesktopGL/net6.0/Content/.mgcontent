@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/ball.png</File>
-    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/demotile.png</File>
-    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tennisball.png</File>
+    <File>C:/Users/aidan/Source/Repos/15-Puzzle/TileGame/Content/ball.png</File>
+    <File>C:/Users/aidan/Source/Repos/15-Puzzle/TileGame/Content/demotile.png</File>
+    <File>C:/Users/aidan/Source/Repos/15-Puzzle/TileGame/Content/tennisball.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />
