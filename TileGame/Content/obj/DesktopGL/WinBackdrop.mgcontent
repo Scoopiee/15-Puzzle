@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<<<<<<< HEAD:TileGame/Content/obj/DesktopGL/WinBackdrop.mgcontent
   <SourceFile>C:/Users/aidan/source/repos/TileGame/TileGame/Content/WinBackdrop.png</SourceFile>
   <SourceTime>2024-01-18T03:35:02.0717298+00:00</SourceTime>
   <DestFile>C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/WinBackdrop.xnb</DestFile>
   <DestTime>2024-01-18T03:35:57.0978331+00:00</DestTime>
+=======
+  <SourceFile>C:/Users/aidan/Source/Repos/15-Puzzle/TileGame/Content/tennisball.png</SourceFile>
+  <SourceTime>2024-02-14T16:15:16.3746617+00:00</SourceTime>
+  <DestFile>C:/Users/aidan/Source/Repos/15-Puzzle/TileGame/Content/bin/DesktopGL/Content/tennisball.xnb</DestFile>
+  <DestTime>2024-02-14T16:15:28.5280179+00:00</DestTime>
+>>>>>>> 6503f836396e6ffd7869f6409775c7d88c2acec9:TileGame/Content/obj/DesktopGL/net6.0/Content/tennisball.mgcontent
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

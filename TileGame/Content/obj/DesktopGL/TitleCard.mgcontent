@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<<<<<<< HEAD:TileGame/Content/obj/DesktopGL/TitleCard.mgcontent
   <SourceFile>C:/Users/aidan/source/repos/TileGame/TileGame/Content/TitleCard.png</SourceFile>
   <SourceTime>2024-01-18T04:18:25.712265+00:00</SourceTime>
   <DestFile>C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/TitleCard.xnb</DestFile>
   <DestTime>2024-01-19T17:07:39.7827977+00:00</DestTime>
+=======
+  <SourceFile>C:/Users/aidan/Source/Repos/15-Puzzle/TileGame/Content/demotile.png</SourceFile>
+  <SourceTime>2024-02-14T16:15:16.3664076+00:00</SourceTime>
+  <DestFile>C:/Users/aidan/Source/Repos/15-Puzzle/TileGame/Content/bin/DesktopGL/Content/demotile.xnb</DestFile>
+  <DestTime>2024-02-14T16:15:28.5230225+00:00</DestTime>
+>>>>>>> 6503f836396e6ffd7869f6409775c7d88c2acec9:TileGame/Content/obj/DesktopGL/net6.0/Content/demotile.mgcontent
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T12:44:56+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
