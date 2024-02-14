@@ -4,11 +4,47 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/ball.png</File>
-    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/demotile.png</File>
-    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tennisball.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/ArialFont.spritefont</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/Click.wav</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_0.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_1.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_10.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_11.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_12.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_13.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_14.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_15.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_2.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_3.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_4.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_5.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_6.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_7.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_8.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_9.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/TitleCard.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/WinBackdrop.png</File>
+    <File>C:/Users/aidan/source/repos/TileGame/TileGame/Content/WinSound.wav</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

@@ -1,4 +1,22 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"C:/Users/aidan/source/repos/TileGame/TileGame/Content/ball.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",1672,25685,0.1562611
-"C:/Users/aidan/source/repos/TileGame/TileGame/Content/demotile.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/demotile.xnb","TextureProcessor","Texture2DContent",333,25685,0.1480587
-"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tennisball.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tennisball.xnb","TextureProcessor","Texture2DContent",3695,24725,0.1331012
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/ArialFont.spritefont","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/ArialFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,70687,0.2530089
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/Click.wav","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/Click.xnb","SoundEffectProcessor","SoundEffectContent",88930,88305,0.4765919
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_0.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_0.xnb","TextureProcessor","Texture2DContent",766,65621,0.100667
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_1.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_1.xnb","TextureProcessor","Texture2DContent",807,65621,0.0052599
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_10.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_10.xnb","TextureProcessor","Texture2DContent",1068,65621,0.0046731
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_11.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_11.xnb","TextureProcessor","Texture2DContent",923,65621,0.0155187
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_12.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_12.xnb","TextureProcessor","Texture2DContent",985,65621,0.0451092
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_13.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_13.xnb","TextureProcessor","Texture2DContent",971,65621,0.0080897
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_14.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_14.xnb","TextureProcessor","Texture2DContent",983,65621,0.0052394
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_15.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_15.xnb","TextureProcessor","Texture2DContent",968,65621,0.0049119
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_2.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_2.xnb","TextureProcessor","Texture2DContent",902,65621,0.0052262
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_3.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_3.xnb","TextureProcessor","Texture2DContent",910,65621,0.0052172
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_4.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_4.xnb","TextureProcessor","Texture2DContent",946,65621,0.0051958
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_5.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_5.xnb","TextureProcessor","Texture2DContent",890,65621,0.0043137
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_6.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_6.xnb","TextureProcessor","Texture2DContent",946,65621,0.0055025
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_7.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_7.xnb","TextureProcessor","Texture2DContent",818,65621,0.0042564
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_8.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_8.xnb","TextureProcessor","Texture2DContent",985,65621,0.0052598
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/tile_9.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/tile_9.xnb","TextureProcessor","Texture2DContent",949,65621,0.004953
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/TitleCard.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/TitleCard.xnb","TextureProcessor","Texture2DContent",2313,253045,0.0100025
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/WinBackdrop.png","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/WinBackdrop.xnb","TextureProcessor","Texture2DContent",6099,1111001,0.1662308
+"C:/Users/aidan/source/repos/TileGame/TileGame/Content/WinSound.wav","C:/Users/aidan/source/repos/TileGame/TileGame/Content/bin/DesktopGL/WinSound.xnb","SoundEffectProcessor","SoundEffectContent",424934,423465,0.6060955
